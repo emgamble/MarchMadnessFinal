@@ -1,353 +1,353 @@
-Abilene Christian,.786
-Air Force,.444
-Akron,.536
-Alabama A&M,.179
-Alabama-Birmingham,.607
-Alabama State,.440
-Alabama,.607
-Albany (NY),.379
-Alcorn State,.370
-American,.500
-Appalachian State,.333
-Arizona State,.704
-Arizona,.571
-Little Rock,.370
-Arkansas-Pine Bluff,.393
-Arkansas State,.444
-Arkansas,.500
-Army,.433
-Auburn,.679
-Austin Peay,.724
-Ball State,.500
-Baylor,.679
-Belmont,.852
-Bethune-Cookman,.464
-Binghamton,.276
-Boise State,.393
-Boston College,.519
-Boston University,.467
-Bowling Green State,.679
-Bradley,.567
-Brigham Young,.600
-Brown,.654
-Bryant,.370
-Bucknell,.621
-Buffalo,.893
-Butler,.536
-Cal Poly,.240
-Cal State Bakersfield,.593
-Cal State Fullerton,.481
-Cal State Northridge,.414
-California Baptist,.577
-UC-Davis,.385
-UC-Irvine,.821
-UC-Riverside,.310
-UC-Santa Barbara,.704
-University of California,.185
-Campbell,.621
-Canisius,.448
-Central Arkansas,.393
-Central Connecticut State,.379
-Central Florida,.778
-Central Michigan,.714
-Charleston Southern,.500
-Charlotte,.231
-Chattanooga,.414
-Chicago State,.107
-Cincinnati,.857
-Citadel,.444
-Clemson,.607
-Cleveland State,.300
-Coastal Carolina,.500
-Colgate,.667
-College of Charleston,.733
-Colorado State,.429
-Colorado,.593
-Columbia,.292
-Connecticut,.481
-Coppin State,.207
-Cornell,.500
-Creighton,.536
-Dartmouth,.423
-Davidson,.714
-Dayton,.679
-Delaware State,.192
-Delaware,.552
-Denver,.250
-DePaul,.500
-Detroit Mercy,.357
-Drake,.733
-Drexel,.448
-Duke,.857
-Duquesne,.643
-East Carolina,.370
-East Tennessee State,.733
-Eastern Illinois,.483
-Eastern Kentucky,.414
-Eastern Michigan,.464
-Eastern Washington,.407
-Elon,.310
-Evansville,.333
-Fairfield,.286
-Fairleigh Dickinson,.536
-Florida A&M,.379
-Florida Atlantic,.571
-Florida Gulf Coast,.433
-Florida International,.607
-Florida State,.786
-Florida,.607
-Fordham,.393
-Fresno State,.714
-Furman,.786
-Gardner-Webb,.633
-George Mason,.571
-George Washington,.286
-Georgetown,.607
-Georgia Southern,.643
-Georgia State,.679
-Georgia Tech,.414
-Georgia,.357
-Gonzaga,.931
-Grambling,.481
-Grand Canyon,.630
-Green Bay,.517
-Hampton,.444
-Hartford,.552
-Harvard,.609
-Hawaii,.593
-High Point,.517
-Hofstra,.793
-Holy Cross,.500
-Houston Baptist,.385
-Houston,.964
-Howard,.483
-Idaho State,.360
-Idaho,.148
-Illinois-Chicago,.517
-Illinois State,.533
-Illinois,.357
-Incarnate Word,.214
-Indiana State,.483
-Indiana,.500
-Iona,.464
-Iowa State,.714
-Iowa,.750
-Purdue-Fort Wayne,.586
-IUPUI,.552
-Jackson State,.370
-Jacksonville State,.724
-Jacksonville,.400
-James Madison,.448
-Kansas State,.750
-Kansas,.750
-Kennesaw State,.167
-Kent State,.714
-Kentucky,.857
-La Salle,.333
-Lafayette,.357
-Lamar,.586
-Lehigh,.679
-Liberty,.800
-Lipscomb,.786
-Long Beach State,.379
-Long Island University,.464
-Longwood,.500
-Louisiana,.593
-Louisiana-Monroe,.538
-Louisiana State,.821
-Louisiana Tech,.643
-Louisville,.621
-Loyola (IL),.600
-Loyola Marymount,.643
-Loyola (MD),.333
-Maine,.172
-Manhattan,.321
-Marist,.429
-Marquette,.821
-Marshall,.519
-Maryland-Baltimore County,.600
-Maryland-Eastern Shore,.172
-Maryland,.724
-Massachusetts-Lowell,.500
-Massachusetts,.357
-McNeese State,.321
-Memphis,.621
-Mercer,.393
-Miami (FL),.444
-Miami (OH),.536
-Michigan State,.821
-Michigan,.857
-Middle Tennessee,.321
-Milwaukee,.310
-Minnesota,.607
-Mississippi State,.750
-Mississippi Valley State,.172
-Mississippi,.679
-Missouri-Kansas City,.357
-Missouri State,.533
-Missouri,.444
-Monmouth,.333
-Montana State,.462
-Montana,.741
-Morehead State,.379
-Morgan State,.308
-Mount St. Mary's,.276
-Murray State,.852
-Navy,.357
-Omaha,.667
-Nebraska,.536
-Nevada-Las Vegas,.536
-Nevada,.929
-New Hampshire,.148
-New Mexico State,.857
-New Mexico,.407
-New Orleans,.593
-Niagara,.433
-Nicholls State,.429
-NJIT,.667
-Norfolk State,.607
-North Alabama,.333
-North Carolina-Asheville,.138
-North Carolina A&T,.571
-North Carolina Central,.517
-North Carolina-Greensboro,.828
-North Carolina State,.714
-North Carolina-Wilmington,.300
-North Carolina,.821
-North Dakota State,.500
-North Dakota,.407
-North Florida,.484
-North Texas,.714
-Northeastern,.643
-Northern Arizona,.333
-Northern Colorado,.667
-Northern Illinois,.464
-Northern Iowa,.467
-Northern Kentucky,.724
-Northwestern State,.393
-Northwestern,.444
-Notre Dame,.464
-Oakland,.448
-Ohio State,.643
-Ohio,.444
-Oklahoma State,.357
-Oklahoma,.607
-Old Dominion,.786
-Oral Roberts,.333
-Oregon State,.654
-Oregon,.556
-Pacific,.448
-Penn State,.429
-Pennsylvania,.615
-Pepperdine,.448
-Pittsburgh,.429
-Portland State,.481
-Portland,.241
-Prairie View,.556
-Presbyterian,.567
-Princeton,.652
-Providence,.552
-Purdue,.750
-Quinnipiac,.556
-Radford,.690
-Rhode Island,.481
-Rice,.393
-Richmond,.429
-Rider,.536
-Robert Morris,.517
-Rutgers,.481
-Sacramento State,.480
-Sacred Heart,.448
-Saint Francis (PA),.556
-Saint Joseph's,.429
-Saint Louis,.607
-Saint Mary's (CA),.655
-Saint Peter's,.286
-Sam Houston State,.690
-Samford,.552
-San Diego State,.643
-San Diego,.586
-San Francisco,.750
-San Jose State,.148
-Santa Clara,.536
-Savannah State,.357
-Seattle,.536
-Seton Hall,.593
-Siena,.517
-South Alabama,.481
-South Carolina State,.233
-South Carolina Upstate,.200
-South Carolina,.500
-South Dakota State,.767
-South Dakota,.407
-South Florida,.643
-Southeast Missouri State,.310
-Southeastern Louisiana,.500
-Southern California,.536
-SIU Edwardsville,.321
-Southern Illinois,.533
-Southern Methodist,.481
-Southern Mississippi,.630
-Southern Utah,.538
-Southern,.179
-St. Bonaventure,.500
-St. Francis (NY),.552
-St. John's (NY),.714
-Stanford,.519
-Stephen F. Austin,.519
-Stetson,.233
-Stony Brook,.793
-Syracuse,.643
-Temple,.714
-Tennessee-Martin,.370
-Tennessee State,.321
-Tennessee Tech,.241
-Tennessee,.893
-Texas A&M-Corpus Christi,.393
-Texas A&M,.444
-Texas-Arlington,.464
-Texas Christian,.643
-Texas-El Paso,.308
-Texas-Rio Grande Valley,.533
-Texas-San Antonio,.556
-Texas Southern,.593
-Texas State,.786
-Texas Tech,.821
-Texas,.536
-Toledo,.786
-Towson,.345
-Troy,.423
-Tulane,.154
-Tulsa,.571
-UCLA,.536
-Utah State,.793
-Utah Valley,.714
-Utah,.556
-Valparaiso,.467
-Vanderbilt,.321
-Vermont,.786
-Villanova,.724
-Virginia Commonwealth,.786
-VMI,.286
-Virginia Tech,.786
-Virginia,.926
-Wagner,.481
-Wake Forest,.407
-Washington State,.407
-Washington,.815
-Weber State,.593
-West Virginia,.393
-Western Carolina,.233
-Western Illinois,.333
-Western Kentucky,.571
-Western Michigan,.286
-Wichita State,.500
-William & Mary,.429
-Winthrop,.643
-Wisconsin,.679
-Wofford,.857
-Wright State,.621
-Wyoming,.214
-Xavier,.536
-Yale,.783
-Youngstown State,.400
+Abilene Christian,.786,
+Air Force,.444,
+Akron,.536,
+Alabama A&M,.179,
+Alabama-Birmingham,.607,
+Alabama State,.440,
+Alabama,.607,
+Albany (NY),.379,
+Alcorn State,.370,
+American,.500,
+Appalachian State,.333,
+Arizona State,.704,
+Arizona,.571,
+Little Rock,.370,
+Arkansas-Pine Bluff,.393,
+Arkansas State,.444,
+Arkansas,.500,
+Army,.433,
+Auburn,.679,
+Austin Peay,.724,
+Ball State,.500,
+Baylor,.679,
+Belmont,.852,
+Bethune-Cookman,.464,
+Binghamton,.276,
+Boise State,.393,
+Boston College,.519,
+Boston University,.467,
+Bowling Green State,.679,
+Bradley,.567,
+Brigham Young,.600,
+Brown,.654,
+Bryant,.370,
+Bucknell,.621,
+Buffalo,.893,
+Butler,.536,
+Cal Poly,.240,
+Cal State Bakersfield,.593,
+Cal State Fullerton,.481,
+Cal State Northridge,.414,
+California Baptist,.577,
+UC-Davis,.385,
+UC-Irvine,.821,
+UC-Riverside,.310,
+UC-Santa Barbara,.704,
+University of California,.185,
+Campbell,.621,
+Canisius,.448,
+Central Arkansas,.393,
+Central Connecticut State,.379,
+Central Florida,.778,
+Central Michigan,.714,
+Charleston Southern,.500,
+Charlotte,.231,
+Chattanooga,.414,
+Chicago State,.107,
+Cincinnati,.857,
+Citadel,.444,
+Clemson,.607,
+Cleveland State,.300,
+Coastal Carolina,.500,
+Colgate,.667,
+College of Charleston,.733,
+Colorado State,.429,
+Colorado,.593,
+Columbia,.292,
+Connecticut,.481,
+Coppin State,.207,
+Cornell,.500,
+Creighton,.536,
+Dartmouth,.423,
+Davidson,.714,
+Dayton,.679,
+Delaware State,.192,
+Delaware,.552,
+Denver,.250,
+DePaul,.500,
+Detroit Mercy,.357,
+Drake,.733,
+Drexel,.448,
+Duke,.857,
+Duquesne,.643,
+East Carolina,.370,
+East Tennessee State,.733,
+Eastern Illinois,.483,
+Eastern Kentucky,.414,
+Eastern Michigan,.464,
+Eastern Washington,.407,
+Elon,.310,
+Evansville,.333,
+Fairfield,.286,
+Fairleigh Dickinson,.536,
+Florida A&M,.379,
+Florida Atlantic,.571,
+Florida Gulf Coast,.433,
+Florida International,.607,
+Florida State,.786,
+Florida,.607,
+Fordham,.393,
+Fresno State,.714,
+Furman,.786,
+Gardner-Webb,.633,
+George Mason,.571,
+George Washington,.286,
+Georgetown,.607,
+Georgia Southern,.643,
+Georgia State,.679,
+Georgia Tech,.414,
+Georgia,.357,
+Gonzaga,.931,
+Grambling,.481,
+Grand Canyon,.630,
+Green Bay,.517,
+Hampton,.444,
+Hartford,.552,
+Harvard,.609,
+Hawaii,.593,
+High Point,.517,
+Hofstra,.793,
+Holy Cross,.500,
+Houston Baptist,.385,
+Houston,.964,
+Howard,.483,
+Idaho State,.360,
+Idaho,.148,
+Illinois-Chicago,.517,
+Illinois State,.533,
+Illinois,.357,
+Incarnate Word,.214,
+Indiana State,.483,
+Indiana,.500,
+Iona,.464,
+Iowa State,.714,
+Iowa,.750,
+Purdue-Fort Wayne,.586,
+IUPUI,.552,
+Jackson State,.370,
+Jacksonville State,.724,
+Jacksonville,.400,
+James Madison,.448,
+Kansas State,.750,
+Kansas,.750,
+Kennesaw State,.167,
+Kent State,.714,
+Kentucky,.857,
+La Salle,.333,
+Lafayette,.357,
+Lamar,.586,
+Lehigh,.679,
+Liberty,.800,
+Lipscomb,.786,
+Long Beach State,.379,
+Long Island University,.464,
+Longwood,.500,
+Louisiana,.593,
+Louisiana-Monroe,.538,
+Louisiana State,.821,
+Louisiana Tech,.643,
+Louisville,.621,
+Loyola (IL),.600,
+Loyola Marymount,.643,
+Loyola (MD),.333,
+Maine,.172,
+Manhattan,.321,
+Marist,.429,
+Marquette,.821,
+Marshall,.519,
+Maryland-Baltimore County,.600,
+Maryland-Eastern Shore,.172,
+Maryland,.724,
+Massachusetts-Lowell,.500,
+Massachusetts,.357,
+McNeese State,.321,
+Memphis,.621,
+Mercer,.393,
+Miami (FL),.444,
+Miami (OH),.536,
+Michigan State,.821,
+Michigan,.857,
+Middle Tennessee,.321,
+Milwaukee,.310,
+Minnesota,.607,
+Mississippi State,.750,
+Mississippi Valley State,.172,
+Mississippi,.679,
+Missouri-Kansas City,.357,
+Missouri State,.533,
+Missouri,.444,
+Monmouth,.333,
+Montana State,.462,
+Montana,.741,
+Morehead State,.379,
+Morgan State,.308,
+Mount St. Mary's,.276,
+Murray State,.852,
+Navy,.357,
+Omaha,.667,
+Nebraska,.536,
+Nevada-Las Vegas,.536,
+Nevada,.929,
+New Hampshire,.148,
+New Mexico State,.857,
+New Mexico,.407,
+New Orleans,.593,
+Niagara,.433,
+Nicholls State,.429,
+NJIT,.667,
+Norfolk State,.607,
+North Alabama,.333,
+North Carolina-Asheville,.138,
+North Carolina A&T,.571,
+North Carolina Central,.517,
+North Carolina-Greensboro,.828,
+North Carolina State,.714,
+North Carolina-Wilmington,.300,
+North Carolina,.821,
+North Dakota State,.500,
+North Dakota,.407,
+North Florida,.484,
+North Texas,.714,
+Northeastern,.643,
+Northern Arizona,.333,
+Northern Colorado,.667,
+Northern Illinois,.464,
+Northern Iowa,.467,
+Northern Kentucky,.724,
+Northwestern State,.393,
+Northwestern,.444,
+Notre Dame,.464,
+Oakland,.448,
+Ohio State,.643,
+Ohio,.444,
+Oklahoma State,.357,
+Oklahoma,.607,
+Old Dominion,.786,
+Oral Roberts,.333,
+Oregon State,.654,
+Oregon,.556,
+Pacific,.448,
+Penn State,.429,
+Pennsylvania,.615,
+Pepperdine,.448,
+Pittsburgh,.429,
+Portland State,.481,
+Portland,.241,
+Prairie View,.556,
+Presbyterian,.567,
+Princeton,.652,
+Providence,.552,
+Purdue,.750,
+Quinnipiac,.556,
+Radford,.690,
+Rhode Island,.481,
+Rice,.393,
+Richmond,.429,
+Rider,.536,
+Robert Morris,.517,
+Rutgers,.481,
+Sacramento State,.480,
+Sacred Heart,.448,
+Saint Francis (PA),.556,
+Saint Joseph's,.429,
+Saint Louis,.607,
+Saint Mary's (CA),.655,
+Saint Peter's,.286,
+Sam Houston State,.690,
+Samford,.552,
+San Diego State,.643,
+San Diego,.586,
+San Francisco,.750,
+San Jose State,.148,
+Santa Clara,.536,
+Savannah State,.357,
+Seattle,.536,
+Seton Hall,.593,
+Siena,.517,
+South Alabama,.481,
+South Carolina State,.233,
+South Carolina Upstate,.200,
+South Carolina,.500,
+South Dakota State,.767,
+South Dakota,.407,
+South Florida,.643,
+Southeast Missouri State,.310,
+Southeastern Louisiana,.500,
+Southern California,.536,
+SIU Edwardsville,.321,
+Southern Illinois,.533,
+Southern Methodist,.481,
+Southern Mississippi,.630,
+Southern Utah,.538,
+Southern,.179,
+St. Bonaventure,.500,
+St. Francis (NY),.552,
+St. John's (NY),.714,
+Stanford,.519,
+Stephen F. Austin,.519,
+Stetson,.233,
+Stony Brook,.793,
+Syracuse,.643,
+Temple,.714,
+Tennessee-Martin,.370,
+Tennessee State,.321,
+Tennessee Tech,.241,
+Tennessee,.893,
+Texas A&M-Corpus Christi,.393,
+Texas A&M,.444,
+Texas-Arlington,.464,
+Texas Christian,.643,
+Texas-El Paso,.308,
+Texas-Rio Grande Valley,.533,
+Texas-San Antonio,.556,
+Texas Southern,.593,
+Texas State,.786,
+Texas Tech,.821,
+Texas,.536,
+Toledo,.786,
+Towson,.345,
+Troy,.423,
+Tulane,.154,
+Tulsa,.571,
+UCLA,.536,
+Utah State,.793,
+Utah Valley,.714,
+Utah,.556,
+Valparaiso,.467,
+Vanderbilt,.321,
+Vermont,.786,
+Villanova,.724,
+Virginia Commonwealth,.786,
+VMI,.286,
+Virginia Tech,.786,
+Virginia,.926,
+Wagner,.481,
+Wake Forest,.407,
+Washington State,.407,
+Washington,.815,
+Weber State,.593,
+West Virginia,.393,
+Western Carolina,.233,
+Western Illinois,.333,
+Western Kentucky,.571,
+Western Michigan,.286,
+Wichita State,.500,
+William & Mary,.429,
+Winthrop,.643,
+Wisconsin,.679,
+Wofford,.857,
+Wright State,.621,
+Wyoming,.214,
+Xavier,.536,
+Yale,.783,
+Youngstown State,.400,
