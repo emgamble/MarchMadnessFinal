@@ -27,6 +27,13 @@ public class Main {
         }
         System.out.println(teams.get(0).name);
 
+        String[] competingString = new String[64];
+	    ArrayList<Team> competingTeams = new ArrayList<>();
+	    int a = 1;
+	    while (a == 1){
+
+        }
+
 
     }
 }
