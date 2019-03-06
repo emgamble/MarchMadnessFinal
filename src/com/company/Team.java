@@ -10,4 +10,7 @@ public class Team
                 this.name = name;
                 this.winLoss = winLoss;
             }
+            public String getName(){
+            return name;
+            }
     }
