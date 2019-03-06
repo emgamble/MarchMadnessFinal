@@ -27,6 +27,14 @@ public class Main {
         }
         System.out.println(teams.get(0).name);
 
+        ArrayList<String> TeamsList = new ArrayList<String>();
+        Scanner teamsListScanner = new Scanner(new File("competingTeams.txt"));
+        while(teamsListScanner.hasNextLine()){
+            TeamsList.add(teamsListScanner.next());
+        }
+        System.out.println(TeamsList);
+        //String names = teamsListScanner.next();
+
         String[] competingString = new String[64];
 	    ArrayList<Team> competingTeams = new ArrayList<>();
 	    int a = 1;
