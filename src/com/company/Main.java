@@ -61,7 +61,7 @@ public class Main {
             }
 
 
-    }
+    }//g
 }
 //ArrayList<String> text = new ArrayList<>();
 //        while (teamScanner.hasNextLine()){
