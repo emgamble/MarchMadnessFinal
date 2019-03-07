@@ -23,16 +23,16 @@ public class Main {
             //System.out.println("x" + teamName);
             winLoss = Double.parseDouble(temp);
 
-            teams.add(new Team(teamName.substring(1), winLoss));
+            teams.add(new Team(teamName.substring(2), winLoss));
         }
        // System.out.println(teams.get(0).name);
 
         ArrayList<String> TeamsList = new ArrayList<String>();
         Scanner teamsListScanner = new Scanner(new File("competingTeams.txt"));
         while(teamsListScanner.hasNextLine()){
-            TeamsList.add(teamsListScanner.next());
+            TeamsList.add(teamsListScanner.nextLine());
         }
-      //  System.out.println(TeamsList);
+        //  System.out.println(TeamsList);
         //String names = teamsListScanner.next();
 
 
@@ -50,7 +50,6 @@ public class Main {
                 }
             }
         }
-        System.out.println(TeamsList.size());
         System.out.println("Winning Teams :");
 
 
