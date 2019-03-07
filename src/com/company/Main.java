@@ -50,16 +50,14 @@ public class Main {
                 }
             }
         }
-        System.out.println("Winning Teams :");
-
-
-        ArrayList<Team> tempTeams = BracketRunner.RunRound(competingTeams);
-        System.out.println(tempTeams.size());
-        for (int i = 0; i < tempTeams.size(); i++)
-            {
+        for (int j = 1; j < 7; j++) {
+            System.out.println("Winning Teams Round " + j + ":");
+            ArrayList<Team> tempTeams = BracketRunner.RunRound(competingTeams);
+            for (int i = 0; i < tempTeams.size(); i++) {
                 System.out.println(tempTeams.get(i).name);
             }
-
+            competingTeams = tempTeams;
+        }
 
     }//g
 }
