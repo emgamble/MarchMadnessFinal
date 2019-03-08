@@ -57,6 +57,7 @@ public class Main {
                 System.out.println(tempTeams.get(i).name);
             }
             competingTeams = tempTeams;
+            System.out.println(tempTeams.size());
         }
 
     }//g
