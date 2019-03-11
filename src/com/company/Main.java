@@ -35,7 +35,7 @@ public class Main {
         //  System.out.println(TeamsList);
         //String names = teamsListScanner.next();
 
-
+//
        // ArrayList<String> competingString = new ArrayList<>();
         ArrayList<Team> competingTeams = new ArrayList<>();
 
