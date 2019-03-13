@@ -59,7 +59,6 @@ public class Main {
             competingTeams = tempTeams;
             System.out.println(tempTeams.size());
         }
-
     }//g
 }
 //ArrayList<String> text = new ArrayList<>();
