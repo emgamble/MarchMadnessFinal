@@ -19,8 +19,8 @@ public class BracketRunner
             int win0 = 0;
             for (int j = 0; j < 10001; j++)
                 {
-                    double check = (random.nextDouble() * (input.get(i).winLoss + input.get(i).winLoss));
-                    if (check < input.get(i).winLoss)
+                    double check = ( input.get(i).winLoss + input.get(i).winLoss) *( random.nextDouble()) + ((input.get(i).SRS + input.get(i).SRS) * random.nextDouble());
+                    if (check < (input.get(i).winLoss + input.get(i).SRS))
                     {
                         win++;
                     }

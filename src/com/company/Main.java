@@ -40,17 +40,16 @@ public class Main {
         }
         //  System.out.println(TeamsList);
         //String names = teamsListScanner.next();
-
 //
        // ArrayList<String> competingString = new ArrayList<>();
         ArrayList<Team> competingTeams = new ArrayList<>();
-        System.out.println(teams.get(0).name);
+      //  System.out.println(teams.get(0).name);
         for (int i = 0; i < TeamsList.size(); i++)
         {
             for(int j = 0; j < teams.size(); j++)
             {
-                System.out.println(TeamsList.get(i));
-                System.out.println(teams.get(j).name);
+            //    System.out.println(TeamsList.get(i));
+            //    System.out.println(teams.get(j).name);
                 if (TeamsList.get(i).equalsIgnoreCase(teams.get(j).name))
                 {
                     competingTeams.add(teams.get(j));
@@ -67,6 +66,9 @@ public class Main {
             competingTeams = tempTeams;
             System.out.println(tempTeams.size());
         }
+      //  for (int i = 0; i < teams.size(); i++) {
+        //    System.out.println(teams.get(i).SRS);
+        //}
     //g
     }
 }
