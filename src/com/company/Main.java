@@ -32,6 +32,7 @@ public class Main {
         }
 
         // System.out.println(teams.get(0).name);
+        //
 
         ArrayList<String> TeamsList = new ArrayList<String>();
         Scanner teamsListScanner = new Scanner(new File("competingTeams.txt"));

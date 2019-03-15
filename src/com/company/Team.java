@@ -12,8 +12,6 @@ public class Team
         this.winLoss = winLoss;
         this.SRS = (teamSRS + 30) / 60;
     }
-    public String getName(){
-        return name;
-    }
+
 
 }
